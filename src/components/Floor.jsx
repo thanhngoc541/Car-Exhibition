@@ -6,7 +6,7 @@ export default (props) => {
       <mesh castShadow
        receiveShadow ref={ref} {...props} >
         <boxBufferGeometry args={[50, 1, 50]}></boxBufferGeometry>
-        <meshPhysicalMaterial  opacity={0.2} ></meshPhysicalMaterial>
+        <meshPhysicalMaterial transparent opacity={0.2} ></meshPhysicalMaterial>
       </mesh>
  )
 }
