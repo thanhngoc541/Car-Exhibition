@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Car-Exhibition/static/css/main.073c9b0a.css",
-    "main.js": "/Car-Exhibition/static/js/main.e3767d3d.js",
+    "main.js": "/Car-Exhibition/static/js/main.12463313.js",
     "static/js/787.450f904a.chunk.js": "/Car-Exhibition/static/js/787.450f904a.chunk.js",
     "index.html": "/Car-Exhibition/index.html",
     "main.073c9b0a.css.map": "/Car-Exhibition/static/css/main.073c9b0a.css.map",
-    "main.e3767d3d.js.map": "/Car-Exhibition/static/js/main.e3767d3d.js.map",
+    "main.12463313.js.map": "/Car-Exhibition/static/js/main.12463313.js.map",
     "787.450f904a.chunk.js.map": "/Car-Exhibition/static/js/787.450f904a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e3767d3d.js"
+    "static/js/main.12463313.js"
   ]
 }
